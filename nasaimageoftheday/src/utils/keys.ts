@@ -1,1 +1,0 @@
-export const API = "DgPLcIlnmN0Cwrzcg3e9NraFaYLIDI68Ysc6Zh3d";
